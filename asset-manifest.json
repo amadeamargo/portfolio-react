@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.7e361a0c.css",
+    "main.js": "/react-portfolio/static/js/main.26a9b81e.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/pro-bono-pals.png": "/react-portfolio/static/media/pro-bono-pals.994c799f3cf90ebcc295.png",
+    "static/media/profile-artwork.png": "/react-portfolio/static/media/profile-artwork.e806c2c84fa6fdc855b0.png",
+    "static/media/about-img.jpg": "/react-portfolio/static/media/about-img.728445b4a91846f9bb40.jpg",
+    "static/media/weather-dashboard.png": "/react-portfolio/static/media/weather-dashboard.1c08eb08cb250b0f8694.png",
+    "static/media/muvd.png": "/react-portfolio/static/media/muvd.5b036bc0f7235aae9560.png",
+    "static/media/profile-generator.png": "/react-portfolio/static/media/profile-generator.6c9e0e5e3487b8915395.png",
+    "static/media/code-quiz.png": "/react-portfolio/static/media/code-quiz.d4aa2caef3767902c20b.png",
+    "static/media/password-generator.png": "/react-portfolio/static/media/password-generator.0b91a14e4f00e2c26cd7.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.7e361a0c.css.map": "/react-portfolio/static/css/main.7e361a0c.css.map",
+    "main.26a9b81e.js.map": "/react-portfolio/static/js/main.26a9b81e.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e361a0c.css",
+    "static/js/main.26a9b81e.js"
+  ]
+}
