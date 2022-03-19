@@ -15,14 +15,13 @@ The "My Portfolio" link in the navbar leads to a page that contains some of my p
 I would love to hear about your vision for your next website! Click on the Contact link in the navbar, fill out the form and hit the send button to send me a message. Please anticipate a reply in 2-3 business days.
 
 
-### React
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ### Deployed Website
 
 This webpage was deployed using GitHub Pages. Link to the live application:
  https://amadeamargo.github.io/react-portfolio/
+
+
+ 
  
 
 
